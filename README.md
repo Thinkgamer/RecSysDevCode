@@ -19,8 +19,8 @@
 
 > 本项目隶属于《推荐系统开发实战》，禁止用做商业用户，如有需要联系我授权
 
-<center><font color=red>注：《推荐系统开发实战》已经在各大电商上线，感兴趣的朋友可以进行关注！</font></center>
-<center><img src="https://img-blog.csdnimg.cn/20190708234949217.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly90aGlua2dhbWVyLmJsb2cuY3Nkbi5uZXQ=,size_16,color_FFFFFF,t_70" width=300px /></center>
+<div align="center"><font color=red>注：《推荐系统开发实战》已经在各大电商上线，感兴趣的朋友可以进行关注！</font></div>
+<div align="center"><img src="https://img-blog.csdnimg.cn/20190708234949217.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly90aGlua2dhbWVyLmJsb2cuY3Nkbi5uZXQ=,size_16,color_FFFFFF,t_70" width=300px /></div>
 
 ## About Me
 ID：Thinkgamer
