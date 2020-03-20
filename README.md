@@ -12,6 +12,8 @@
 - 音乐推荐系统：https://github.com/Thinkgamer/MusicRecSys
 - 新闻推荐系统：https://github.com/Thinkgamer/NewsRecSys
 
+> 由于一些可耻行为，三大案例的repo暂时关闭，具体代码可在本书附送的资料包中获取。
+
 ## 勘误
 尽管多次校验和审核，但书中还是会存在错误，读者若有疑问，可以在issue进行提交，我会尽可能地最快回复！格式的话就是：XX页：XXX问题
 
